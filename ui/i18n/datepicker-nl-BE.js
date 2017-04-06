@@ -14,8 +14,8 @@
 
 datepicker.regional[ "nl-BE" ] = {
 	closeText: "Sluiten",
-	prevText: "←",
-	nextText: "→",
+	prevText: "Vorige",
+	nextText: "Volgende",
 	currentText: "Vandaag",
 	monthNames: [ "januari", "februari", "maart", "april", "mei", "juni",
 	"juli", "augustus", "september", "oktober", "november", "december" ],
